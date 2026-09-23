@@ -51,8 +51,3 @@ print(f"The average total of global sales across {total_games} games - {avg_glob
 #Wii Sports game percentage of total global sales
 top_game_share = (video_game_sales[0][GLOBAL_SALES]/total)*100
 print(top_game_share)
-
-#result
-20
-The average total of global sales across 20 games - 29.3305.
-14.10477148360921
